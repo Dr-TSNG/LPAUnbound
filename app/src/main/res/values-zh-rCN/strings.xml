@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_description">允许 Android eUICC 框架选择使用平台签名、以普通应用方式安装的 LPA。</string>
+</resources>
